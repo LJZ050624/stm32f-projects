@@ -35,5 +35,5 @@ int main(void)
 	//死循环
 	while(1)
 	{
-	GPIOA->ODR&=~GPIO_ODR_ODR12;}
+	}
 }
