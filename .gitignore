@@ -67,3 +67,29 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Keil 工程文件
+*.uvgui*
+*.uvopt
+*.bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.lnp
+*.scvd
+*.htm
+*.build_log.htm
+*.JLinkLog.txt
+*.JLinkSettings.ini
+*.sct
+*.i
+*.txt
+*.log
+
